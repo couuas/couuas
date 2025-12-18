@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/UserMention/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/YourUserName">Your Name</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/YourUserName">Couuas</a> 👋</h1>
   <h3>🚀 Full Stack Developer | ✍️ Tech Blogger | 🔧 Open Source Enthusiast</h3>
   
   <p>
@@ -47,16 +47,16 @@
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=couuas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=couuas&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUserName&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=couuas&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
