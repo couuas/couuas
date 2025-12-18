@@ -45,18 +45,14 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=couuas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td width="40%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=couuas&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=couuas&style=flat-square&color=blue" alt="Profile Views" />
-</div>
 
 ---
 
