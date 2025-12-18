@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/UserMention/giphy.gif" width="100" />
   <h1>Hi there, I'm <a href="https://github.com/YourUserName">Couuas</a> 👋</h1>
   <h3>🚀 Full Stack Developer | ✍️ Tech Blogger | 🔧 Open Source Enthusiast</h3>
   
@@ -24,7 +23,7 @@
 - 🌱 I’m currently learning **Rust & WebAssembly**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Python, Docker, Kubernetes**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **couuas@gmail.com**
 
 ---
 
@@ -59,9 +58,6 @@
   <img src="https://komarev.com/ghpvc/?username=couuas&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
----
-
-### 📝 Latest Blog Posts
 ---
 
 ### 🐍 Contributions
