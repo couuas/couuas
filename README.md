@@ -3,10 +3,10 @@
   <h3>🚀 Full Stack Developer | ✍️ Tech Blogger | 🔧 Open Source Enthusiast</h3>
   
   <p>
-    <a href="https://yourblog.com">
+    <a href="https://couuas.github.io">
       <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hugo&logoColor=white" />
     </a>
-    <a href="mailto:your@email.com">
+    <a href="mailto:couuas@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/yourprofile">
