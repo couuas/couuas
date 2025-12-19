@@ -1,0 +1,24 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://couuas.github.io/rss.xml" 
+          
+          max_post_count: 5          # 显示最近 5 篇
+          template: "- [$title]($url) ($date)" # 自定义显示格式
+          date_format: "yyyy-mm-dd"  # 日期格式
