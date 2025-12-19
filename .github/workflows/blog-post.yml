@@ -19,5 +19,5 @@ jobs:
         with:
           feed_list: "https://couuas.github.io/rss.xml" 
           max_post_count: 5
-          template: "- [$title]($url) ($date)"
+          template: "> $emoji <b><a href='$url'>$title</a></b><br/>Published on: <i>$date</i><br/>"
           date_format: "yyyy-mm-dd"
