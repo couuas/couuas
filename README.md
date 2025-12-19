@@ -24,3 +24,7 @@
 </picture>
 
 ---
+
+### 📝 Latest Blog Posts
+
+---
