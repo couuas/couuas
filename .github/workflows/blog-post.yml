@@ -19,5 +19,5 @@ jobs:
         with:
           feed_list: "https://couuas.github.io/rss.xml" 
           max_post_count: 5
-          template: "<tr><td width='1080px' align='center'>$date</td><td align='center'><a href='$url'>$title</a></td></tr>"
+          template: "<tr><td width='200px' align='center'>$date</td><td align='center' width='800px'><a href='$url'>$title</a></td></tr>"
           date_format: "yyyy-mm-dd"
