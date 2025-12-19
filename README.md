@@ -26,6 +26,6 @@
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Internal Link Demo](https://couuas.github.io/blog/link-test) (2023-03-15)- [The Kitchen Sink](https://couuas.github.io/blog/mixed-content) (2023-03-10)- [Working with Tables](https://couuas.github.io/blog/table-examples) (2023-03-09)- [Typography Essentials](https://couuas.github.io/blog/typography-guide) (2023-03-08)- [Minimalist Design Principles](https://couuas.github.io/blog/design-principles) (2023-03-07)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->> $emoji <b><a href='https://couuas.github.io/blog/link-test'>Internal Link Demo</a></b><br/>Published on: <i>2023-03-15</i><br/>> $emoji <b><a href='https://couuas.github.io/blog/mixed-content'>The Kitchen Sink</a></b><br/>Published on: <i>2023-03-10</i><br/>> $emoji <b><a href='https://couuas.github.io/blog/table-examples'>Working with Tables</a></b><br/>Published on: <i>2023-03-09</i><br/>> $emoji <b><a href='https://couuas.github.io/blog/typography-guide'>Typography Essentials</a></b><br/>Published on: <i>2023-03-08</i><br/>> $emoji <b><a href='https://couuas.github.io/blog/design-principles'>Minimalist Design Principles</a></b><br/>Published on: <i>2023-03-07</i><br/><!-- BLOG-POST-LIST:END -->
 
 ---
