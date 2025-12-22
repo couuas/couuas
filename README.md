@@ -27,7 +27,7 @@
 ### 📝 Latest Blog Posts
 <table width="100%">
 
-<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2024-12-19</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/galaxy-introduction'>Introduction to Knowledge Galaxy</a></td></tr><tr><td width='200px' align='center'>2024-12-19</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/galaxy-tech-stack'>The Tech Stack Behind the Galaxy</a></td></tr><tr><td width='200px' align='center'>2024-12-19</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/galaxy-visual-style'>Defining the Visual Style</a></td></tr><tr><td width='200px' align='center'>2024-12-19</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/threejs-basics'>Three.js Basics for Data Viz</a></td></tr><tr><td width='200px' align='center'>2023-03-15</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/link-test'>Internal Link Demo</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2024-03-20</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/about-wasker'>About Wasker Vue</a></td></tr><tr><td width='200px' align='center'>2024-03-20</td><td align='center' width='800px'><a href='https://6660.pp.ua/blog/about-wasker'>关于 Wasker Vue</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
