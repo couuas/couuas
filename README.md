@@ -27,7 +27,7 @@
 ### 📝 Latest Blog Posts
 <table width="100%">
 
-<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2024-03-20</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/about-wasker'>About Wasker Vue</a></td></tr><tr><td width='200px' align='center'>2024-03-20</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/about-wasker'>关于 Wasker Vue</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2024-03-20</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/about-wasker'>About Wasker Vue</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
