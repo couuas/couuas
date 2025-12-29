@@ -27,7 +27,7 @@
 ### 📝 Latest Blog Posts
 <table width="100%">
 
-<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2025-12-25</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/about-wasker'>About Wasker Vue</a></td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td width='200px' align='center'>2025-12-29</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/performance_bottleneck_analysis'>TRICYS Performance Bottleneck Analysis and Optimization</a></td></tr><tr><td width='200px' align='center'>2025-12-25</td><td align='center' width='800px'><a href='https://couuas.pp.ua/blog/about-wasker'>About Wasker Vue</a></td></tr><!-- BLOG-POST-LIST:END -->
 
 </table>
 
